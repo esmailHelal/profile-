@@ -1,0 +1,63 @@
+.pb-100 {
+  padding-bottom: 100px !important;
+}
+.pt-100 {
+  padding-top: 100px !important;
+}
+.heading {
+  margin-bottom: 50px;
+}
+.heading {
+  margin-bottom: 50px;
+}
+.heading h6 {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+.heading h2 {
+  font-size: 32px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.contact #contact-form .form-group .form-control {
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  color: #222;
+  border: 0;
+  border-bottom: 2px solid #222;
+  height: 3em;
+  -webkit-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+.main-btn {
+  display: inline-block;
+  background-color: #222;
+  padding: 10px 20px;
+  border: 2px solid #222;
+  color: #fff;
+  text-transform: uppercase;
+  -webkit-transition: 0.2s background-color ease;
+  -o-transition: 0.2s background-color ease;
+  transition: 0.2s background-color ease;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.mt-30 {
+  margin-top: 30px !important;
+}
+.main-btn:hover {
+  color: #222;
+  background-color: transparent;
+}
+.contact #contact-form .form-group textarea.form-control {
+  height: auto;
+  resize: none;
+}
